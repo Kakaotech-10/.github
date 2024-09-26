@@ -27,11 +27,38 @@
 
 <br/>
 
+---
+
 ### Ground Rule
 - [뱅크샐러드] `PN 규칙` 사용 
 - `commit 메세지 컨벤션`사용
-  <br/>
+  
     예시)
     - feat: 회원가입 기능 구현
     - fix: 프로필 수정 안되는 버그 수정
 - `PR 템플릿` 사용
+  
+  예시)
+  - ✨ 메인페이지 구현
+  - 🐛 사용자 로그인 안되는 버그 수정
+
+| 아이콘 | 코드 | 설명 |
+|:---:|:---:|:---|
+| 🎨 | `:art:` | 코드의 구조/형태 개선 |
+| ⚡️ | `:zap:` | 성능 개선 |
+| 🔥 | `:fire:` | 코드/파일 삭제 |
+| 🐛 | `:bug:` | 버그 수정 |
+| 🚑 | `:ambulance:` | 긴급 수정 |
+| ✨ | `:sparkles:` | 새 기능 |
+| 💄 | `:lipstick:` | UI/스타일 파일 추가/수정 |
+| ⏪ | `:rewind:` | 변경 내용 되돌리기 |
+| 🔀 | `:twisted_rightwards_arrows:` | 브랜치 합병 |
+| 💡 | `:bulb:` | 주석 추가/수정 |
+| 🗃 | `:card_file_box:` | 데이터베이스 관련 수정 |
+
+- `Git Flow` 사용
+  `Branch 전략` (형식: feature/기능) 사용
+  
+  예시)
+  - feature/login_main
+  - feature/ai_model_lstm

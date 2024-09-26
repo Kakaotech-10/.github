@@ -1,5 +1,16 @@
 # 🔥하이틴! (10조)
 
+<div align="center">
+  
+| **Full Stack** | **Cloud** | **AI** |
+|:------: | :------: | :------: |
+| <img src="http://raw.githubusercontent.com/Kakaotech-10/.github/main/profile/Mae.png" height=150 width=150> | <img src="http://raw.githubusercontent.com/Kakaotech-10/.github/main/profile/Eddy.png" height=150 width=150> | <img src="http://raw.githubusercontent.com/Kakaotech-10/.github/main/profile/Justin.png" height=150 width=150> |
+| Mae.park | Eddy.kim | Justin.kim |
+| <img src="http://raw.githubusercontent.com/Kakaotech-10/.github/main/profile/Yohan.png" height=150 width=150> |  <img src="http://raw.githubusercontent.com/Kakaotech-10/.github/main/profile/Ella.png" height=150 width=150> |  <img src="http://raw.githubusercontent.com/Kakaotech-10/.github/main/profile/Lucy.png" height=150 width=150>
+| Yohan.kim | Ella.oh | Lucy.sim |
+
+
+
 ### Full Stack
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -12,3 +23,15 @@
 
 ### AI
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+</div>
+
+<br/>
+
+### Ground Rule
+- [뱅크샐러드] `PN 규칙` 사용 
+- `commit 메세지 컨벤션`사용
+  <br/>
+    예시)
+    - feat: 회원가입 기능 구현
+    - fix: 프로필 수정 안되는 버그 수정
+- `PR 템플릿` 사용
